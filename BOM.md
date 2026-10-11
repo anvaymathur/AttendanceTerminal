@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [PCB](https://github.com/anvaymathur/AttendanceTerminal/blob/main/Assets/PCBPrice.png) | The main PCB, 5 is minimum qty | 5 | $4.00 | $20.00 | [JLCPCB](https://github.com/anvaymathur/AttendanceTerminal/blob/main/Assets/PCBPrice.png) |
 | **Parts subtotal** | — | — | — | **$20.00** | — |
-| **Tax & shipping** | — | — | — | **$6.45** | — |
-| **Total** | — | — | — | **$26.45** | — |
+| **Tax & shipping** | — | — | — | **$13.75** | — |
+| **Total** | — | — | — | **$33.75** | — |
 
-$3.55 left of the tier's funding.
+**$3.75 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
